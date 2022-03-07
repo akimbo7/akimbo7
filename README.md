@@ -1,4 +1,5 @@
 <h1 align="center">Akimbo</h1>
+<h3 align="center">A script kiddie</h3>
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=akimbo7&theme=radical&show_icons=tru">
 </p>
