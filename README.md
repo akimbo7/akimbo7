@@ -1,4 +1,5 @@
 <h3 align="center">A script kiddie</h3>
+[comment]: <gregeg> 
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=akimbo7&theme=radical&show_icons=tru">
 </p>
