@@ -1,11 +1,6 @@
-<h3 align="center">A script kiddie</h3>
-[comment]: <gregeg> 
-<p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=akimbo7&theme=radical&show_icons=tru">
-</p>
+```
+script kiddie and noob
 
-<p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimbo7&layout=compact&theme=radical">
-</p>
-
-     
+- i like reverse engineering apis
+- this page is just me learning and finding cool shit
+   
