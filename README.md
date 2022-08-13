@@ -14,3 +14,4 @@ class akimbo7:
                 "MacOS": "Monterey"
             }
 ```
+![](https://komarev.com/ghpvc/?username=akimbo7&style=flat-square)
