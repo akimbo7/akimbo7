@@ -18,5 +18,6 @@ class akimbo7:
 <div align="center">
 
   <a href="">![](https://komarev.com/ghpvc/?username=akimbo7&style=for-the-badge&color=AD00FF)</a>
+  <a href="">![](https://img.shields.io/github/stars/akimbo7?color=AD00FF&style=for-the-badge)</a>
 
 </div>
