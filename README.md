@@ -14,8 +14,9 @@ class akimbo7:
                 "MacOS": "Monterey"
             }
 ```
-![](https://komarev.com/ghpvc/?username=akimbo7&style=for-the-badge)
 
-<p align="center">
-  <![](https://komarev.com/ghpvc/?username=akimbo7&style=for-the-badge)>
-</p>
+<div align="center">
+
+  <a href="">![](https://komarev.com/ghpvc/?username=akimbo7&style=for-the-badge)</a>
+
+</div>
