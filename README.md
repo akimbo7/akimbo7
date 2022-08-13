@@ -15,3 +15,7 @@ class akimbo7:
             }
 ```
 ![](https://komarev.com/ghpvc/?username=akimbo7&style=for-the-badge)
+
+<p align="center">
+  <![](https://komarev.com/ghpvc/?username=akimbo7&style=for-the-badge)>
+</p>
