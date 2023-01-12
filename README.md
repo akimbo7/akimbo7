@@ -6,7 +6,7 @@ class akimbo7:
             self.username = "akimbo7"
             self.description = "this is just me learning and finding cool shit"
             self.contacts = {
-                "Discord": "akimbo#4507",
+                "Discord": "akimbo#5184",
                 "Telegram": "akiimbbo"
             }
             self.operating_system = {
